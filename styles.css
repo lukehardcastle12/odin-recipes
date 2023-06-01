@@ -20,6 +20,7 @@ li, p, a {
     font-family:'Courier New', Courier, monospace;
     font-size: 24px;
     padding: 10px;
+    text-decoration: none;
 }
 .center {
     display: block;
@@ -37,9 +38,20 @@ li, p, a {
 ul{
     list-style-type: none;
 }
-.content{
-    background-color: aqua;
-    border: 2px solid black;
+
+.card{
+    border: 10px solid black;
+    text-align: center;
+    display: block;
+    background-color: aquamarine;
+    margin: 10px;
+    padding: 10px;
+}
+.recipe{
+    border: 10px solid black;
+    text-align: center;
+    display: block;
+    padding: 40px;
     margin: 20px;
-    
+    background-color: antiquewhite;
 }
