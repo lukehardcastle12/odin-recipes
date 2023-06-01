@@ -1,1 +1,30 @@
 /* styles.css */
+body {
+    background-color: paleturquoise;
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    text-align: center;
+    text-weight: bold;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace; 
+    text-decoration: underline;
+}
+li, p {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 24px;
+    padding: 10px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+
+}
