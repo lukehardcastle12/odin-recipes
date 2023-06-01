@@ -37,3 +37,9 @@ li, p, a {
 ul{
     list-style-type: none;
 }
+.content{
+    background-color: aqua;
+    border: 2px solid black;
+    margin: 20px;
+    
+}
